@@ -1,1 +1,1 @@
-# -gz-repository
+# gz-repository
